@@ -12,6 +12,6 @@ Nesta página, disponibilizamos uma variedade de materiais para alunos e profess
 ### Download de materiais
 
 - [Template para apresentações](https://github.com/de-ufpb/template-apresentacao/archive/master.zip)
-  - Disponível também como template para novos projetos no [Overleaf](https://www.overleaf.com).
+  - Disponível também como template para novos projetos no [Overleaf](https://www.overleaf.com/latex/templates/template-para-apresentacoes-de-ufpb/kjtvffgvchkt).
 - [Template para folders](https://github.com/de-ufpb/template-folder/archive/master.zip)
-  - Disponível também como template para novos projetos no [Overleaf](https://www.overleaf.com).
+  - Disponível também como template para novos projetos no [Overleaf](https://www.overleaf.com/latex/templates/template-para-folders-de-ufpb/hxmxgxvbtbrk).
